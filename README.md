@@ -5,7 +5,7 @@
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am still early in my learning of web development but I would say my current strengths are CSS and anything related to math visuals.
-- For example: https://mathvisuals.netlify.app/
+   For example: https://mathvisuals.netlify.app/
 - I am also interested in learning database design but that's still a few months away... 
 
 <!---
