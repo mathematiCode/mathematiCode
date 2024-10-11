@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathematiCode
 - 👀 I’m interested in software that can be used to make learning and teaching (especially math) more enjoyable. I am former math teacher of 5 years hoping to get a job at an edtech company. 
-- 🌱 I’m currently deepening my foundations in HTML, CSS, and JS. 
+- 🌱 I’m currently learning React through the Joy of React Course [https://www.joyofreact.com/]. 
 - 💞️ I’m looking to collaborate on anything related to math education.
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
 - 😄 Pronouns: She/Her
