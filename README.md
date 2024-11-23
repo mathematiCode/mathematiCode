@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React through the Joy of React Course [https://www.joyofreact.com/]. 
 - 💞️ I’m looking to collaborate on anything related to math education.
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
+- 🦋 BlueSky: @mathcoder.bsky.social
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am still early in my learning of web development but I would say my current strengths are CSS and anything related to math visuals.
    For example: https://visualfractionlibrary.com/
