@@ -5,8 +5,7 @@
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
 - 🦋 BlueSky: [@mathcoder.bsky.social](https://bsky.app/profile/mathcoder.bsky.social)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am still early in my learning of web development but I would say my current strengths are CSS and anything related to math visuals.
-   For example: https://visualfractionlibrary.com/
+- ⚡ My Favorite Projects I've Made: https://visualfractionlibrary.com/
 
 <!---
 mathematiCode/mathematiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
