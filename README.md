@@ -6,7 +6,6 @@
 - 🦋 BlueSky: [@mathcoder.bsky.social](https://bsky.app/profile/mathcoder.bsky.social)
 - 😄 Pronouns: She/Her
 - ⚡ My Favorite Projects I've Made: https://visualfractionlibrary.com/ and https://frectangles.netlify.app/ (still in progress)
-- 
 
 <!---
 mathematiCode/mathematiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
