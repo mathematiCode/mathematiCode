@@ -5,7 +5,7 @@
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
 - 🦋 BlueSky: [@mathcoder.bsky.social](https://bsky.app/profile/mathcoder.bsky.social)
 - 😄 Pronouns: She/Her
-- ⚡ My Favorite Projects I've Made: https://visualfractionlibrary.com/ https://frectangles.netlify.app/ (still in progress)
+- ⚡ My Favorite Projects I've Made: https://visualfractionlibrary.com/ and https://frectangles.netlify.app/ (still in progress)
 - 
 
 <!---
