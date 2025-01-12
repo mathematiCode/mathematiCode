@@ -5,7 +5,8 @@
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
 - 🦋 BlueSky: [@mathcoder.bsky.social](https://bsky.app/profile/mathcoder.bsky.social)
 - 😄 Pronouns: She/Her
-- ⚡ My Favorite Projects I've Made: https://visualfractionlibrary.com/
+- ⚡ My Favorite Projects I've Made: https://visualfractionlibrary.com/ https://frectangles.netlify.app/ (still in progress)
+- 
 
 <!---
 mathematiCode/mathematiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
