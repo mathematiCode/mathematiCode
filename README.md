@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 [![Julianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathematiCode)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathematiCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathematicode&" alt="mathematicode" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathematiCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
