@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @mathematiCode
-- 👀 I’m interested in software that can be used to make learning and teaching (especially math) more enjoyable. I am former math teacher of 5 years hoping to get a job at an edtech company.
+- 👀 I’m interested in software that can be used to make learning and teaching (especially math) more enjoyable. I am former math teacher of 5 years turned software engineer.
 - 💻 Tech Stack: React, Typescript, Vanilla JS, CSS, Styled Components, and/or Tailwind
-- 🌱 I’m currently working on a complex math puzzle game in React using Dnd-kit for Drag and Drop and motion for animations. It's not done but you can check it out here: https://frectangles.netlify.app/ 
-- 💞️ I’m looking to collaborate on anything related to math education.
+- 🌱 I’m currently working on a complex math puzzle game in React. Check it out here: [https://frectangles.com](http://www.frectangles.com/?utm_source=github&utm_campaign=bio)
+- 💞️ I’m looking for product-focused developer roles primarily in EdTech. 
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
 - 🦋 BlueSky: [@mathcoder.bsky.social](https://bsky.app/profile/mathcoder.bsky.social)
 - 😄 Pronouns: She/Her
-- ⚡ My Favorite Projects I've Made: https://visualfractionlibrary.com/ and https://frectangles.netlify.app/ (still in progress)
+- ⚡ My Favorite Projects I've Made: [https://frectangles.com](http://www.frectangles.com/?utm_source=github&utm_campaign=bio) and www.visualfractionlibrary.com
 
 <!---
 mathematiCode/mathematiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
