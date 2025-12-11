@@ -8,3 +8,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ My Favorite Projects I've Made: [https://frectangles.com](http://www.frectangles.com/?utm_source=github&utm_campaign=bio) and www.visualfractionlibrary.com
 
+![](https://raw.githubusercontent.com/mathematiCode/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mathematiCode/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/mathematiCode/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mathematiCode/github-stats/master/generated/languages.svg#gh-light-mode-only)
