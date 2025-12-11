@@ -8,10 +8,3 @@
 - 😄 Pronouns: She/Her
 - ⚡ My Favorite Projects I've Made: [https://frectangles.com](http://www.frectangles.com/?utm_source=github&utm_campaign=bio) and www.visualfractionlibrary.com
 
-<!---
-mathematiCode/mathematiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-[![Julianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathematiCode)](https://github.com/anuraghazra/github-readme-stats)
---->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathematiCode)](https://github.com/mathematiCode/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathematiCode&layout=compact&theme=tokyonight)](https://github.com/mathematiCode/github-readme-stats)
