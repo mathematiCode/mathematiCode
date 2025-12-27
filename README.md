@@ -13,10 +13,10 @@
 ![](https://raw.githubusercontent.com/mathematiCode/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mathematiCode/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-Frectangles Demo
+# Frectangles Demo
 
 ![Level3Demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a1da8e53-9ac6-4661-aaff-c05d92c1b0b0)
 
-Visual Fraction Library Demo
+# Visual Fraction Library Demo
 
 ![VisualFractionLibraryDemo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cd0d5b62-0e39-406c-965a-a3c513480ca6)
