@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mathematiCode, check out my [Portfolio](https://juliannamessineo.dev)
 - 👀 I’m interested in software that can be used to make learning and teaching (especially math) more enjoyable. I am former math teacher of 5 years turned software engineer.
 - 💻 Tech Stack: React, Typescript, Next JS, Golang, Vanilla JS, CSS, Styled Components, and Tailwind
-- 🌱 I’m currently working at an events startup called [Meet Near Me](https://github.com/meetnearme/api)
+- 🌱 I’m currently working at an events startup called [Meet Near Me](https://meetnear.me)
 - 💞️ I’m looking for product-focused developer roles primarily in EdTech. 
 - 📫 LinkedIn: https://www.linkedin.com/in/julianna-messineo/
 - 🦋 BlueSky: [@mathcoder.bsky.social](https://bsky.app/profile/mathcoder.bsky.social)
